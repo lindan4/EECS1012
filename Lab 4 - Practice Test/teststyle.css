@@ -1,0 +1,19 @@
+#first {
+  color: black;
+  text-align: center;
+}
+
+#second {
+  color: green;
+  text-align: left;
+}
+
+#third {
+  color: orange;
+  text-align: right;
+}
+
+#fourth {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,11 @@
+table {
+  border: 1px solid black;
+  table-layout: fixed;
+  width: 100%;
+}
+ 
+th, td {
+  border: 1px solid black;
+  overlfow: hidden;
+  width: 16%;
+}

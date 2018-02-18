@@ -1,1 +1,1 @@
-# EECS1012
+Lab exercises

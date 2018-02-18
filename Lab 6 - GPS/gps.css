@@ -1,0 +1,14 @@
+#map {
+  position: relative;
+  width : 1000px;
+  height : 500px;
+
+}
+
+#target, #me {
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+}
